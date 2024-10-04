@@ -61,7 +61,7 @@ Projet créé en adéquation du 6ème brief qui m'a été assigné sur Simplonli
 
 - Les clients ayant passé des commandes après le 01/01/2023.
 ​
-**Bonus :**
+## Bonus :
 Identification des données sensibles selon le RGPD et mise en place de solutions pour les protéger (chiffrement, pseudonymisation, etc.).
 
 # Exécution des scripts
