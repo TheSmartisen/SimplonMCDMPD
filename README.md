@@ -49,12 +49,17 @@ Projet créé en adéquation du 6ème brief qui m'a été assigné sur Simplonli
   
 - Écrire un script Python pour importer les données dans la base de données en respectant les contraintes définies dans le MPD.
   
-- Extraction les données demandées par requête SQL :
-    Les clients ayant consenti à recevoir des communications marketing.
-    Les commandes d'un client spécifique.
-    Le montant total des commandes du client avec ID n° 61 .
-    Les clients ayant passé des commandes de plus de 100 euros.
-    Les clients ayant passé des commandes après le 01/01/2023.
+**Extraction les données demandées par requête SQL :**
+
+- Les clients ayant consenti à recevoir des communications marketing.
+
+- Les commandes d'un client spécifique.
+
+- Le montant total des commandes du client avec ID n° 61 .
+
+- Les clients ayant passé des commandes de plus de 100 euros.
+
+- Les clients ayant passé des commandes après le 01/01/2023.
 ​
 **Bonus :**
 Identification des données sensibles selon le RGPD et mise en place de solutions pour les protéger (chiffrement, pseudonymisation, etc.).
