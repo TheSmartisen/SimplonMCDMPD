@@ -1,0 +1,101 @@
+Client_ID,Nom,Prénom,Email,Téléphone,Date_Naissance,Adresse,Consentement_Marketing
+1,Laurent,Nicolas,nicolas.laurent@gmail.com,746932647,1980-01-31,"100 Place de l'Église, Nice",1
+2,Simon,Yoann,yoann.simon@gmail.com,646159560,1980-02-29,"71 Rue de la République, Nantes",0
+3,Masson,Anne,anne.masson@gmail.com,614095572,1980-03-31,"24 Avenue des Champs, Nantes",1
+4,Vincent,Alicia,alicia.vincent@gmail.com,648253288,1980-04-30,"74 Rue des Fleurs, Nice",0
+5,Roussel,Kelly,kelly.roussel@gmail.com,688265178,1980-05-31,"12 Rue du Faubourg, Lille",1
+6,Leroux,Olivier,olivier.leroux@gmail.com,750458167,1980-06-30,"74 Rue des Écoles, Marseille",0
+7,Durand,Amandine,amandine.durand@gmail.com,763594090,1980-07-31,"13 Rue du Faubourg, Bordeaux",0
+8,Vidal,Benjamin,benjamin.vidal@gmail.com,734120733,1980-08-31,"1 Boulevard de la Liberté, Toulouse",0
+9,Bertrand,Rémi,remi.bertrand@gmail.com,654856952,1980-09-30,"97 Boulevard Saint-Michel, Montpellier",0
+10,Durand,Céline,celine.durand@gmail.com,690993028,1980-10-31,29 Rue de la Paix,1
+11,Morel,Alice,alice.morel@gmail.com,742988104,1980-11-30,"46 Rue des Fleurs, Lyon",0
+12,Bertrand,Sonia,sonia.bertrand@gmail.com,668555764,1980-12-31,"29 Place de l'Église, Montpellier",0
+13,Bertrand,Charles,charles.bertrand@gmail.com,775307506,1981-01-31,40 Rue de la Paix,0
+14,Schmitt,Tony,tony.schmitt@gmail.com,617049023,1981-02-28,"4 Rue des Écoles, Toulouse",1
+15,Morin,Charlotte,charlotte.morin@gmail.com,716441729,1981-03-31,"4 Rue de la République, Paris",0
+16,Schmitt,Ludovic,ludovic.schmitt@gmail.com,659434266,1981-04-30,15 Rue de la Paix,0
+17,Morin,Mohamed,mohamed.morin@gmail.com,633416931,1981-05-31,"74 Rue de la République, Toulouse",1
+18,Moreau,Florent,florent.moreau@gmail.com,715003447,1981-06-30,"9 Rue des Écoles, Strasbourg",1
+19,Michel,Sophie,sophie.michel@gmail.com,663726971,1981-07-31,"13 Avenue Jean Jaurès, Nice",1
+20,Rey,Charlène,charlene.rey@gmail.com,670660089,1981-08-31,"83 Place de l'Église, Paris",1
+21,Renard,Ludovic,ludovic.renard@gmail.com,650395394,1981-09-30,"10 Avenue Jean Jaurès, Montpellier",1
+22,Lambert,Melodie,melodie.lambert@gmail.com,791208510,1981-10-31,"12 Rue des Fleurs, Strasbourg",1
+23,Giraud,Thibault,thibault.giraud@gmail.com,657276147,1981-11-30,44 Rue de la Paix,1
+24,Rousseau,Yohann,yohann.rousseau@gmail.com,744152567,1981-12-31,"59 Avenue Jean Jaurès, Nice",1
+25,Faure,Mylène,mylene.faure@gmail.com,714957706,1982-01-31,80 Rue de la Paix,0
+26,Perrin,Deborah,deborah.perrin@gmail.com,742732566,1982-02-28,"87 Avenue Jean Jaurès, Bordeaux",0
+27,Roux,Emmanuelle,emmanuelle.roux@gmail.com,643826665,1982-03-31,"78 Rue Victor Hugo, Bordeaux",1
+28,Pierre,Charlène,charlene.pierre@gmail.com,738872029,1982-04-30,"21 Rue de la République, Marseille",0
+29,Morel,Charline,charline.morel@gmail.com,686540875,1982-05-31,"17 Rue des Écoles, Toulouse",0
+30,Leroy,Jordan,jordan.leroy@gmail.com,658013599,1982-06-30,"24 Boulevard Saint-Michel, Lyon",1
+31,Bonnet,Marina,marina.bonnet@gmail.com,751216441,1982-07-31,"19 Boulevard Saint-Michel, Toulouse",1
+32,Roux,Yann,yann.roux@gmail.com,793215985,1982-08-31,"64 Rue des Fleurs, Montpellier",0
+33,Simon,Maxime,maxime.simon@gmail.com,690335007,1982-09-30,"54 Boulevard Saint-Michel, Strasbourg",0
+34,Francois,Mickael,mickael.francois@gmail.com,677483777,1982-10-31,"31 Rue de la République, Montpellier",1
+35,Caron,Maxime,maxime.caron@gmail.com,773932535,1982-11-30,32 Rue de la Paix,1
+36,Lefebvre,Clémentine,clementine.lefebvre@gmail.com,677101969,1982-12-31,"70 Rue des Fleurs, Lille",0
+37,Giraud,Coralie,coralie.giraud@gmail.com,784691636,1983-01-31,"12 Boulevard Saint-Michel, Nice",1
+38,Riviere,Elsa,elsa.riviere@gmail.com,733827070,1983-02-28,"38 Avenue des Champs, Marseille",1
+39,Gautier,Valentin,valentin.gautier@gmail.com,778046359,1983-03-31,14 Rue de la Paix,0
+40,Nicolas,Mathieu,mathieu.nicolas@gmail.com,643327004,1983-04-30,"88 Boulevard de la Liberté, Toulouse",1
+41,Dufour,Victor,victor.dufour@gmail.com,781646845,1983-05-31,"79 Rue des Écoles, Montpellier",0
+42,Muller,Yohann,yohann.muller@gmail.com,698214496,1983-06-30,8 Rue de la Paix,0
+43,Lacroix,Jessica,jessica.lacroix@gmail.com,645524316,1983-07-31,"96 Boulevard de la Liberté, Toulouse",0
+44,Durand,Yohan,yohan.durand@gmail.com,798561999,1983-08-31,"19 Avenue des Champs, Nice",0
+45,Henry,Ludivine,ludivine.henry@gmail.com,745970187,1983-09-30,"38 Rue des Fleurs, Lyon",0
+46,Leclerc,Fanny,fanny.leclerc@gmail.com,664940395,1983-10-31,98 Rue de la Paix,0
+47,Rey,Melodie,melodie.rey@gmail.com,686055716,1983-11-30,"61 Place de l'Église, Marseille",1
+48,Moreau,Charlène,charlene.moreau@gmail.com,710768636,1983-12-31,"4 Rue des Fleurs, Strasbourg",1
+49,Benoit,Arthur,arthur.benoit@gmail.com,649506811,1984-01-31,"57 Avenue des Champs, Paris",0
+50,Schmitt,Laetitia,laetitia.schmitt@gmail.com,660642022,1984-02-29,"38 Place de l'Église, Bordeaux",0
+51,Blanchard,Sylvain,sylvain.blanchard@gmail.com,739149916,1984-03-31,"77 Rue du Faubourg, Nantes",0
+52,Dufour,Alicia,alicia.dufour@gmail.com,728189107,1984-04-30,"24 Rue des Fleurs, Lille",0
+53,Bourgeois,Clément,clement.bourgeois@gmail.com,752627423,1984-05-31,"68 Avenue des Champs, Paris",1
+54,Blanchard,Julia,julia.blanchard@gmail.com,659734233,1984-06-30,"89 Rue du Faubourg, Nice",1
+55,Lemoine,Tony,tony.lemoine@gmail.com,653382290,1984-07-31,"26 Boulevard Saint-Michel, Strasbourg",1
+56,Roger,Karim,karim.roger@gmail.com,690101903,1984-08-31,"2 Place de l'Église, Marseille",1
+57,Henry,Pierre,pierre.henry@gmail.com,777705262,1984-09-30,"30 Rue du Faubourg, Nantes",1
+58,David,Audrey,audrey.david@gmail.com,743409431,1984-10-31,"34 Boulevard de la Liberté, Lille",0
+59,Olivier,Aline,aline.olivier@gmail.com,783105845,1984-11-30,"57 Avenue des Champs, Lyon",1
+60,Rey,Xavier,xavier.rey@gmail.com,623721534,1984-12-31,30 Rue de la Paix,1
+61,Richard,Camille,camille.richard@gmail.com,730109796,1985-01-31,91 Rue de la Paix,0
+62,Durand,Sylvain,sylvain.durand@gmail.com,735972318,1985-02-28,"53 Rue des Fleurs, Bordeaux",1
+63,Blanchard,Rémi,remi.blanchard@gmail.com,695428692,1985-03-31,"38 Place de l'Église, Nice",0
+64,Dupont,Sandrine,sandrine.dupont@gmail.com,698770246,1985-04-30,"70 Rue Victor Hugo, Nice",0
+65,Duval,Samantha,samantha.duval@gmail.com,749040746,1985-05-31,"56 Avenue des Champs, Paris",0
+66,Roy,Bastien,bastien.roy@gmail.com,777798648,1985-06-30,"24 Rue de la République, Montpellier",0
+67,Faure,Victor,victor.faure@gmail.com,674502267,1985-07-31,"57 Rue des Fleurs, Nantes",0
+68,Gauthier,Romain,romain.gauthier@gmail.com,733741577,1985-08-31,"65 Place de l'Église, Strasbourg",1
+69,Dumas,Maxime,maxime.dumas@gmail.com,765627855,1985-09-30,"16 Rue des Fleurs, Nantes",0
+70,Boyer,Elodie,elodie.boyer@gmail.com,774742565,1985-10-31,"72 Boulevard Saint-Michel, Lille",1
+71,Caron,Maeva,maeva.caron@gmail.com,699635481,1985-11-30,"20 Rue Victor Hugo, Lyon",0
+72,Brun,Aude,aude.brun@gmail.com,723426223,1985-12-31,"91 Rue Victor Hugo, Lyon",1
+73,Mercier,Alexandra,alexandra.mercier@gmail.com,686257110,1986-01-31,"9 Boulevard de la Liberté, Toulouse",1
+74,Guerin,Etienne,etienne.guerin@gmail.com,774927861,1986-02-28,"93 Avenue des Champs, Marseille",0
+75,Dumont,Audrey,audrey.dumont@gmail.com,738584254,1986-03-31,"36 Avenue des Champs, Bordeaux",1
+76,Leroy,Mohamed,mohamed.leroy@gmail.com,761714183,1986-04-30,"5 Rue du Faubourg, Bordeaux",0
+77,Robert,Laura,laura.robert@gmail.com,694286115,1986-05-31,"37 Rue des Écoles, Montpellier",1
+78,Roche,Delphine,delphine.roche@gmail.com,662810230,1986-06-30,"99 Avenue Jean Jaurès, Bordeaux",1
+79,Richard,Benjamin,benjamin.richard@gmail.com,616992120,1986-07-31,"48 Boulevard Saint-Michel, Marseille",0
+80,Bourgeois,Arthur,arthur.bourgeois@gmail.com,773816788,1986-08-31,"78 Avenue Jean Jaurès, Paris",0
+81,Joly,Mélissa,melissa.joly@gmail.com,781710574,1986-09-30,"7 Avenue Jean Jaurès, Marseille",1
+82,Masson,Mathieu,mathieu.masson@gmail.com,755696517,1986-10-31,"18 Boulevard de la Liberté, Toulouse",0
+83,Clement,Julien,julien.clement@gmail.com,678781134,1986-11-30,"88 Avenue des Champs, Nice",0
+84,Gaillard,Delphine,delphine.gaillard@gmail.com,685479832,1986-12-31,"23 Avenue Jean Jaurès, Strasbourg",0
+85,Bonnet,Mylène,mylene.bonnet@gmail.com,642252365,1987-01-31,"79 Rue du Faubourg, Toulouse",1
+86,Joly,Teddy,teddy.joly@gmail.com,773842963,1987-02-28,"84 Boulevard Saint-Michel, Nice",1
+87,Robert,Hugo,hugo.robert@gmail.com,633001102,1987-03-31,"21 Boulevard de la Liberté, Bordeaux",0
+88,Gautier,Céline,celine.gautier@gmail.com,752226369,1987-04-30,"67 Rue des Écoles, Lille",1
+89,Lefebvre,Brice,brice.lefebvre@gmail.com,722827460,1987-05-31,"14 Avenue Jean Jaurès, Nice",0
+90,Dumont,Philippe,philippe.dumont@gmail.com,662740449,1987-06-30,"55 Avenue des Champs, Paris",1
+91,Bourgeois,Adeline,adeline.bourgeois@gmail.com,767586215,1987-07-31,"4 Avenue Jean Jaurès, Marseille",1
+92,Moreau,Alexandre,alexandre.moreau@gmail.com,783745160,1987-08-31,17 Rue de la Paix,0
+93,Nicolas,Morgan,morgan.nicolas@gmail.com,640939938,1987-09-30,"8 Avenue Jean Jaurès, Lyon",0
+94,Arnaud,Océane,oceane.arnaud@gmail.com,796935529,1987-10-31,"65 Avenue Jean Jaurès, Marseille",0
+95,Dupont,Guillaume,guillaume.dupont@gmail.com,735966261,1987-11-30,"74 Boulevard de la Liberté, Marseille",1
+96,Riviere,Hélène,helene.riviere@gmail.com,715848812,1987-12-31,"17 Avenue Jean Jaurès, Marseille",0
+97,Petit,Philippe,philippe.petit@gmail.com,640245069,1988-01-31,"63 Avenue Jean Jaurès, Nice",0
+98,Garnier,Charles,charles.garnier@gmail.com,714063679,1988-02-29,"2 Rue de la République, Bordeaux",0
+99,Bourgeois,Lucie,lucie.bourgeois@gmail.com,787768636,1988-03-31,"57 Avenue Jean Jaurès, Lyon",1
+100,Robert,Lucas,lucas.robert@gmail.com,717323489,1988-04-30,"10 Boulevard de la Liberté, Montpellier",1
